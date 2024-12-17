@@ -39,15 +39,15 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
     ```
 ### Navigate to the project directory:
 2. ```sh
-   cd tic_tac_toe```
+   cd tic_tac_toe
 
 ### Get the dependencies:
 3. ```sh
-   flutter pub get```
+   flutter pub get
 
 ### Run the application:
 4. ```sh
-   flutter run```
+   flutter run
 
 ## Usage
 1. Start the Game: Open the application on your device or emulator.
