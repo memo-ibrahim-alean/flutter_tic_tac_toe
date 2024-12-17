@@ -21,7 +21,7 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
 - **Responsive UI**: Clean and responsive user interface for an enhanced gaming experience.
 
 ## Demo
-[Demo](https://www.youtube.com/shorts/aKTsvl28vb4).
+[Demo Video Link](https://www.youtube.com/shorts/aKTsvl28vb4).
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/tic_tac_toe.git
+   git clone https://github.com/memo-ibrahim-alean/flutter_tic_tac_toe.git
     ```
 ### Navigate to the project directory:
 2. cd tic_tac_toe
