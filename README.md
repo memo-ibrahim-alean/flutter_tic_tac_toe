@@ -38,13 +38,16 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
    git clone https://github.com/memo-ibrahim-alean/flutter_tic_tac_toe.git
     ```
 ### Navigate to the project directory:
-2. cd tic_tac_toe
+2. ```sh
+   cd tic_tac_toe```
 
 ### Get the dependencies:
-3. flutter pub get
+3. ```sh
+   flutter pub get```
 
 ### Run the application:
-4.flutter run
+4. ```sh
+   flutter run```
 
 ## Usage
 1. Start the Game: Open the application on your device or emulator.
