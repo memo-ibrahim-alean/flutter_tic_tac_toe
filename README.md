@@ -5,12 +5,11 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -20,6 +19,9 @@ A simple yet engaging Tic-Tac-Toe game built with Flutter. This game features a 
 - **Game Timer**: Tracks and displays the elapsed time since the game started.
 - **Reset Button**: Allows players to restart the game, resetting the board and timer.
 - **Responsive UI**: Clean and responsive user interface for an enhanced gaming experience.
+
+## Demo
+[Demo](https://www.youtube.com/shorts/aKTsvl28vb4).
 
 ## Getting Started
 
